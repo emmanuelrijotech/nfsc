@@ -1,7 +1,5 @@
- nfsc
-Ubuntu Network Forensic Scan and Capture
- 🛡️ Smart DFIR Hunt
- Linux Network & Persistence Triage Toolkit
+🛡️ Smart DFIR Hunt
+Linux Network & Persistence Triage Toolkit
 
 Smart DFIR Hunt is a portable, incident-response oriented Bash scanner built to quickly answer the question:
 
